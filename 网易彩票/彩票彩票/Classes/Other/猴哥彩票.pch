@@ -1,0 +1,15 @@
+//
+//  猴哥彩票.pch
+//  彩票彩票
+//
+//  Created by 侯宝伟 on 15/8/30.
+//  Copyright (c) 2015年 ZHUNJIEE. All rights reserved.
+//
+
+#ifdef __OBJC__
+
+#import "UIImage+Image.h"
+
+#import "UIView+Frame.h"
+
+#endif
